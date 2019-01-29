@@ -235,7 +235,6 @@ endif()
 
 add_executable(example test/example.c)
 target_link_libraries(example zlib)
-add_test(example example)
 
 add_executable(minigzip test/minigzip.c)
 target_link_libraries(minigzip zlib)
