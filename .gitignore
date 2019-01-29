@@ -13,6 +13,8 @@
 *.gcno
 *.gcov
 
+zconf.h.included
+
 /example
 /example64
 /examplesh
